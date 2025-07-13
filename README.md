@@ -42,4 +42,4 @@ This Streamlit app includes the following mini projects:
     └── SumCalculator.py
 
 ## 🌍 Live Demo
-https://50-days-python-challenge-for-starters.streamlit.app/
+👉 [https://50-days-python-challenge-for-starters.streamlit.app/](https://50-days-python-challenge-for-starters.streamlit.app/)
