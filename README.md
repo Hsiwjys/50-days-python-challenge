@@ -40,3 +40,7 @@ This Streamlit app includes the following mini projects:
     ├── ShoppingBill.py
     ├── SimplePassword.py
     └── SumCalculator.py
+
+## 🌍 Live Demo
+
+🟢 [Click here to use the app](https://50-days-python-challenge-for-starters.streamlit.app/)
