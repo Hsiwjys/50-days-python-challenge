@@ -43,4 +43,4 @@ This Streamlit app includes the following mini projects:
 
 ## 🌍 Live Demo
 
-🟢 [Click here to use the app](https://50-days-python-challenge-for-starters.streamlit.app/)
+🟢 https://50-days-python-challenge-for-starters.streamlit.app/
