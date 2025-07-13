@@ -22,6 +22,11 @@ This Streamlit app includes the following mini projects:
 |10 | ➗ Sum Calculator       | Sum all numbers from 1 to n                  |
 
 ---
+<h2 align="center">📸 App Preview</h2>
+<p align="center">
+  <img src="images/preview.png" width="800"/>
+</p>
+
 
 ## 🧱 Folder Structure
 
