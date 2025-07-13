@@ -5,7 +5,7 @@ import streamlit as st
 from apps import (
     AgeCategory, BasicCalculator, CountNumbers, EvenOddChecker,
     NameList, NumberComparison, PersonalGreeting,
-    ShoppingBill, SimplePassword, SumCalculator
+    ShoppingBill, SimplePassword, SumCalculator, GradeAverage
 )
 
 # Mapping app names to modules
@@ -19,7 +19,8 @@ app_dict = {
     "👋 Personal Greeting": PersonalGreeting,
     "🛒 Shopping Bill": ShoppingBill,
     "🔐 Simple Password": SimplePassword,
-    "➗ Sum Calculator": SumCalculator
+    "➗ Sum Calculator": SumCalculator,
+    "📊 Grade Average": GradeAverage
 }
 
 # Set page config
