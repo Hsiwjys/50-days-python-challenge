@@ -3,24 +3,33 @@ import streamlit as st
 
 # Import your app modules
 from apps import (
-    AgeCategory, BasicCalculator, CountNumbers, EvenOddChecker,
-    NameList, NumberComparison, PersonalGreeting,
-    ShoppingBill, SimplePassword, SumCalculator, GradeAverage
+    AgeCategory, BasicCalculator, CountdownTimer, CountNumbers,
+    EvenOddChecker, GradeAverage, InitialExtractor, ListMaximum,
+    NameFormatter, NameList, NumberComparison, PersonalGreeting,
+    ShoppingBill, SimpleCipher, SimplePassword, SumCalculator,
+    VowelCounter, WordReverser
 )
 
 # Mapping app names to modules
 app_dict = {
     "🧓 Age Category": AgeCategory,
     "🧮 Basic Calculator": BasicCalculator,
+    "⏳ Countdown Timer": CountdownTimer,
     "🔢 Count Numbers": CountNumbers,
     "➕ Even/Odd Checker": EvenOddChecker,
+    "📊 Grade Average": GradeAverage,
+    "🔡 Initial Extractor": InitialExtractor,
+    "📈 List Maximum": ListMaximum,
     "📋 Name List": NameList,
+    "🧑‍💼 Name Formatter": NameFormatter,
     "🔍 Number Comparison": NumberComparison,
     "👋 Personal Greeting": PersonalGreeting,
     "🛒 Shopping Bill": ShoppingBill,
+    "🔐 Simple Cipher": SimpleCipher,
     "🔐 Simple Password": SimplePassword,
     "➗ Sum Calculator": SumCalculator,
-    "📊 Grade Average": GradeAverage
+    "🔤 Vowel Counter": VowelCounter,
+    "🔁 Word Reverser": WordReverser
 }
 
 # Set page config
