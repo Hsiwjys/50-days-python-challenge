@@ -4,7 +4,7 @@ import streamlit as st
 # Import your app modules
 from apps import (
     AgeCategory, BasicCalculator, CountdownTimer, CountNumbers,
-    EvenOddChecker, GradeAverage, InitialExtractor, ListMaximum,
+    EmailUsername, EvenOddChecker, GradeAverage, InitialExtractor, ListMaximum,
     NameFormatter, NameList, NumberComparison, PersonalGreeting,
     ShoppingBill, SimpleCipher, SimplePassword, SumCalculator,
     VowelCounter, WordReverser
@@ -16,6 +16,7 @@ app_dict = {
     "🧮 Basic Calculator": BasicCalculator,
     "⏳ Countdown Timer": CountdownTimer,
     "🔢 Count Numbers": CountNumbers,
+    "📧 Email Username": EmailUsername,
     "➕ Even/Odd Checker": EvenOddChecker,
     "📊 Grade Average": GradeAverage,
     "🔡 Initial Extractor": InitialExtractor,
